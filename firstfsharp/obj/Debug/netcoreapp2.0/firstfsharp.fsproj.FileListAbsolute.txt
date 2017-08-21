@@ -1,0 +1,8 @@
+C:\Users\rwagn\dotnet20\firstfsharp\bin\Debug\netcoreapp2.0\firstfsharp.deps.json
+C:\Users\rwagn\dotnet20\firstfsharp\bin\Debug\netcoreapp2.0\firstfsharp.runtimeconfig.json
+C:\Users\rwagn\dotnet20\firstfsharp\bin\Debug\netcoreapp2.0\firstfsharp.runtimeconfig.dev.json
+C:\Users\rwagn\dotnet20\firstfsharp\bin\Debug\netcoreapp2.0\firstfsharp.dll
+C:\Users\rwagn\dotnet20\firstfsharp\bin\Debug\netcoreapp2.0\firstfsharp.pdb
+C:\Users\rwagn\dotnet20\firstfsharp\obj\Debug\netcoreapp2.0\firstfsharp.fsproj.CoreCompileInputs.cache
+C:\Users\rwagn\dotnet20\firstfsharp\obj\Debug\netcoreapp2.0\firstfsharp.dll
+C:\Users\rwagn\dotnet20\firstfsharp\obj\Debug\netcoreapp2.0\firstfsharp.pdb

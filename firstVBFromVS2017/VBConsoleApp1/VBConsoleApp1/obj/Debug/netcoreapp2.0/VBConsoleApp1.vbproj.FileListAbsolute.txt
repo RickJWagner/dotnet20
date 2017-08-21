@@ -1,0 +1,11 @@
+C:\Users\rwagn\dotnet20\firstVBFromVS2017\VBConsoleApp1\VBConsoleApp1\bin\Debug\netcoreapp2.0\VBConsoleApp1.deps.json
+C:\Users\rwagn\dotnet20\firstVBFromVS2017\VBConsoleApp1\VBConsoleApp1\bin\Debug\netcoreapp2.0\VBConsoleApp1.runtimeconfig.json
+C:\Users\rwagn\dotnet20\firstVBFromVS2017\VBConsoleApp1\VBConsoleApp1\bin\Debug\netcoreapp2.0\VBConsoleApp1.runtimeconfig.dev.json
+C:\Users\rwagn\dotnet20\firstVBFromVS2017\VBConsoleApp1\VBConsoleApp1\bin\Debug\netcoreapp2.0\VBConsoleApp1.dll
+C:\Users\rwagn\dotnet20\firstVBFromVS2017\VBConsoleApp1\VBConsoleApp1\bin\Debug\netcoreapp2.0\VBConsoleApp1.pdb
+C:\Users\rwagn\dotnet20\firstVBFromVS2017\VBConsoleApp1\VBConsoleApp1\obj\Debug\netcoreapp2.0\VBConsoleApp1.vbprojResolveAssemblyReference.cache
+C:\Users\rwagn\dotnet20\firstVBFromVS2017\VBConsoleApp1\VBConsoleApp1\obj\Debug\netcoreapp2.0\VBConsoleApp1.vbproj.CoreCompileInputs.cache
+C:\Users\rwagn\dotnet20\firstVBFromVS2017\VBConsoleApp1\VBConsoleApp1\obj\Debug\netcoreapp2.0\VBConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\rwagn\dotnet20\firstVBFromVS2017\VBConsoleApp1\VBConsoleApp1\obj\Debug\netcoreapp2.0\VBConsoleApp1.AssemblyInfo.vb
+C:\Users\rwagn\dotnet20\firstVBFromVS2017\VBConsoleApp1\VBConsoleApp1\obj\Debug\netcoreapp2.0\VBConsoleApp1.dll
+C:\Users\rwagn\dotnet20\firstVBFromVS2017\VBConsoleApp1\VBConsoleApp1\obj\Debug\netcoreapp2.0\VBConsoleApp1.pdb
